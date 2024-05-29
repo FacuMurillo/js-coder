@@ -12,7 +12,7 @@ function mayorDeEdad(){
     let edad = 30;
 
     if( edad >= 18){
-        console.log("Bienvenido/a al sistema, eres mayor de edad");
+        console.log("Bienvenido/a al sistema, eres mayor de edadd");
     }
     else{
         console.log("No eres menor de edad");
