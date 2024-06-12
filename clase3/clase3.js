@@ -1,6 +1,8 @@
-/* 
-CICLOS E ITERACIONES
 
+
+                //!  CICLOS E ITERACIONES
+
+/* 
      FOR (SINTAXIS) 
 for( desde; hasta; actualizacion){        
         codigo

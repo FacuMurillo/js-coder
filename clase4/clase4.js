@@ -1,4 +1,6 @@
-// FUNCIONES 
+
+
+                        //! FUNCIONES 
 /* function nombreDeFuncion(){
         
     bloque de codigo
