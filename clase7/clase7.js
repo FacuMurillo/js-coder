@@ -16,7 +16,7 @@ let saludoArrow = () => {
 }
 saludoArrow();
 
-//! FUNCIONES DE ORDEN SUPERIOR
+                                //! FUNCIONES DE ORDEN SUPERIOR
 
 function crearMultiplicador(multiplicador){
     return function(num){
