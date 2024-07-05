@@ -16,3 +16,13 @@ span{
 form{
     background-color: rgb(193, 193, 193);
 }
+
+#carrito{
+    display: none;
+}
+tbody{
+    text-align: center;
+}
+tbody tr{
+    text-align: center;
+}
