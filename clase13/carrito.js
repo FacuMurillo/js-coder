@@ -49,7 +49,7 @@ function mostrarCarrito(){
     for(let producto of carrito){
 
         let fila = document.createElement("tr");
-        fila.innerHTML = `<td><img src="${producto.img}"></td>
+        fila.innerHTML = `<td><img src="${producto.img}" style=""></td>
                         <td><p>${producto.nombre}</p></td>
                         <td><p>${producto.cantidad}</p></td>
                         <td>${producto.precio}</td>

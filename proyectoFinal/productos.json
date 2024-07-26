@@ -1,0 +1,40 @@
+
+[
+    {
+        "id":"1",
+        "nombre":"",
+        "precio":"",
+        "cantidad":1
+    },
+    {
+        "id":"2",
+        "nombre":"",
+        "precio":"",
+        "cantidad":1
+    },
+    {
+        "id":"3",
+        "nombre":"",
+        "precio":"",
+        "cantidad":1
+    },
+    {
+        "id":"4",
+        "nombre":"",
+        "precio":"",
+        "cantidad":1
+    },
+    {
+        "id":"5",
+        "nombre":"",
+        "precio":"",
+        "cantidad":1
+    },
+    {
+        "id":"6",
+        "nombre":"",
+        "precio":"",
+        "cantidad":1
+    }
+
+]
